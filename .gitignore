@@ -1,0 +1,21 @@
+# Compiled output
+/dist
+/tmp
+/out-tsc
+/.angular/cache
+
+# Node
+/node_modules
+npm-debug.log
+yarn-error.log
+
+# IDEs
+.idea/
+.project
+.classpath
+.cproject
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
